@@ -1,2 +1,8 @@
+# MacOs Cashe
 *.DS_Store
-example.md
+
+# Solution template
+template.md
+
+# Solution collector
+leetcode_scraper.py
