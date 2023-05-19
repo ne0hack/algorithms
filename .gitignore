@@ -4,5 +4,6 @@
 # Solution template
 template.md
 
-# Solution collector
-leetcode_scraper.py
+# Python Cache
+solutions_parser.py
+venv/
