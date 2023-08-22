@@ -1,9 +1,2 @@
 # MacOs Cashe
 *.DS_Store
-
-# Solution template
-template.md
-
-# Python Cache
-solutions_parser.py
-venv/
