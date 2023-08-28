@@ -3,7 +3,7 @@
 _Here is a collection of all my solved algorithms_
 
 Number of solved problems:
-- leetcode: 722
+- leetcode: 725
 - hackerrank: 15
 - codewars: 3
 
