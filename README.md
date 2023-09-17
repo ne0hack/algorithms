@@ -3,8 +3,8 @@
 _Here is a collection of all my solved algorithms_
 
 Number of solved problems:
-- leetcode: 757
+- leetcode: 763
+- codewars: 5
 - hackerrank: 15
-- codewars: 3
 
-Total: 775
+Total: 783
