@@ -7,4 +7,4 @@ Number of solved problems:
 - codewars: 5
 - hackerrank: 15
 
-Total: 797
+Total: 797 
