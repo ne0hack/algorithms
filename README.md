@@ -4,7 +4,7 @@ _Here is a collection of all my solved algorithms_
 
 Number of solved problems:
 - leetcode: 905
-- codewars: 30
+- codewars: 40
 - hackerrank: 15
 
-Total: 950
+Total: 960
