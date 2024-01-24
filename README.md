@@ -5,6 +5,6 @@ _Here is a collection of all my solved algorithms_
 Number of solved problems:
 - leetcode: 942
 - codewars: 80
-- hackerrank: 15
+- hackerrank: 20
 
-Total: 1037
+Total: 1042
