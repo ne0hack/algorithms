@@ -1,4 +1,4 @@
-# Algos 🏯
+# Algorithms 🏯
 
 _Here is a collection of all my solved algorithms_
 
