@@ -3,9 +3,9 @@
 _Here is a collection of all my solved algorithms_
 
 Number of solved problems:
-- [leetcode](https://leetcode.com): 1018
+- [leetcode](https://leetcode.com): 1020
 - [coderun](https://coderun.yandex.ru/): 1
 - [codewars](https://www.codewars.com): 80
 - [hackerrank](https://www.hackerrank.com): 20
 
-Total: 1119
+Total: 1121
