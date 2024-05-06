@@ -7,5 +7,6 @@ Number of solved problems:
 - [coderun](https://coderun.yandex.ru/): 1
 - [codewars](https://www.codewars.com): 80
 - [hackerrank](https://www.hackerrank.com): 20
+- other: 1
 
-Total: 1129
+Total: 1130
