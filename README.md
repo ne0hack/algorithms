@@ -12,13 +12,13 @@ Collection of all my solved algorithms
 
 ## Solved problems
 
-- [leetcode](https://leetcode.com): 1048
+- [leetcode](https://leetcode.com): 1049
 - [coderun](https://coderun.yandex.ru): 1
 - [codewars](https://www.codewars.com): 80
 - [hackerrank](https://www.hackerrank.com): 20
 - other: 1
 
-**Total: 1150**
+**Total: 1151**
 
 
 ## Useful links
